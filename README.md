@@ -8,10 +8,10 @@ I would like to maintain this repository.
 ### Disclaimer
 This repository was intended to share the source code of previous homework, to help
 people understand c and c++, and to share ideas of solutions to those assignments
-(I believe ideas are to be learned, even to be copied, although assignments are required to be done individually.)
+(I believe that ideas are to be learned, even to be copied, although assignments are required to be done individually.)
 Since the goal is to SHARE ideas on those assignments, I do not guarantee that 
-all solutions are either correct or implemented using the described methods of assignments. 
-But, if you come up with better solutions or find any error, please contact me. 
+all solutions are either correct or implemented using the described methods in assignments. 
+But, if you come up with better solutions or find out any error, please contact me. 
 I would like to maintain this repository.
 
 ### Contact: 
