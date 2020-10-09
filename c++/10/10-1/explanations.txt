@@ -1,0 +1,28 @@
+/*
+	CH-230-A 
+    a10-p1.[c or cpp or h] 
+    Zixiang Wang 
+    zixwang@jacobs-university.de
+*/
+
+In case a)
+    5 error generated
+        1. in testcritter.cpp:18:2: error: 'string' was not declared in this scope
+            because string was in the std namespace, if using namespace std is removed
+            the compiler cannot find the string class to compiler
+        2. in testcritter.cpp:21:2: error: 'cout' was not declared in this scope
+            cout was included in std namespace , if namespace std is removed should 
+            written as std::cout
+        3. testcritter.cpp:21:10: error: 'endl' was not declared in this scope
+            the same as above
+        4. testcritter.cpp:25:10: error: 'cin' was not declared in this scope
+            the same as above
+        5. testcritter.cpp:25:15: error: 'name' was not declared in this scope
+            because in line 18 string was not declared, name was also not successfully 
+            declared in line 18
+
+In case b)
+    1 error generated 
+        1. Critter.cpp:15:2: error: 'name' was not declared in this scope
+            because name was first declared inside class Critter if removed the Critter:: namespace
+            the compiler cannot find the name so undeclared error generated
