@@ -1,7 +1,7 @@
 # Homework of c and c++ of 2019 fall Jacobs (Partial)
 
 ### Discription
-This repository contains all codes that I wrote for c and c++ assignments of 2019 fall. 
+This repository contains all codes that I wrote for partial c and c++ assignments of 2019 fall. 
 If you have better solutions or find any errors, please contact me. 
 I would like to maintain this repository.
 
