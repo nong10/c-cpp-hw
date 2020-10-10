@@ -14,5 +14,5 @@ all solutions are either correct or implemented using the described methods in a
 But, if you come up with better solutions or find out any error, please contact me. 
 I would like to maintain this repository.
 
-### Contact: 
+### Contact
 nong10w@outlook.com
