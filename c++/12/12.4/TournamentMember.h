@@ -1,9 +1,3 @@
-/*
-	CH-230-A 
-    a12-p4.[c or cpp or h] 
-    Zixiang Wang 
-    zixwang@jacobs-university.de
-*/
 #include <iostream>
 
 using namespace std;

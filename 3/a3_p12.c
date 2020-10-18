@@ -1,9 +1,3 @@
-/*
-CH-230-A
-a3_p12.c
-Ziheng Gao
-zgao@jacobs-university.de
-*/
 #include<stdio.h>
 #include<string.h>
 

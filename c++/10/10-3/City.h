@@ -1,10 +1,3 @@
-/*
-	CH-230-A 
-    a10-p3.[c or cpp or h] 
-    Zixiang Wang 
-    zixwang@jacobs-university.de
-*/
-
 #include <string>
 
 class City {

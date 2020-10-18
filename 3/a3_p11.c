@@ -1,10 +1,3 @@
-/*
-CH-230-A
-a3_p11
-11.c
-Ziheng Gao
-zgao@jacobs-university.de
-*/
 #include<stdio.h>
 #include<string.h>
 

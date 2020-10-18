@@ -1,9 +1,3 @@
-/*
-CH-230-A
-a3_p5.c
-Ziheng Gao
-zgao@jacobs-university.de
-*/
 #include <stdio.h>
 
 int main()

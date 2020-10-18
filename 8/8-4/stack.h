@@ -1,11 +1,4 @@
 /*
-	CH-230-A
-	a8_p4.[c]
-	Zixiang Wang
-	zixwang@jacobs-university.de
-*/
-
-/*
 	from 1 - 12
 	0 represent no content
 */

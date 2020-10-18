@@ -1,10 +1,3 @@
-/*
-	CH-230-A 
-    a10-p6.[c or cpp or h] 
-    Zixiang Wang 
-    zixwang@jacobs-university.de
-*/
-
 #ifndef _Critter_
 #define _Critter_
 

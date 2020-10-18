@@ -1,10 +1,3 @@
-/*
-	CH-230-A 
-    a12-p8.[c or cpp or h] 
-    Zixiang Wang 
-    zixwang@jacobs-university.de
-*/
-
 #ifndef _RECTANGLE_H
 #define _RECTANGLE_H
 #include "Area.h"

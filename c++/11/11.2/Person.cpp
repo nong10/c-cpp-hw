@@ -1,10 +1,3 @@
-/*
-	CH-230-A 
-    a11-p2.[c or cpp or h] 
-    Zixiang Wang 
-    zixwang@jacobs-university.de
-*/
-
 #include <string>
 #include "Person.h"
 #include <iostream>

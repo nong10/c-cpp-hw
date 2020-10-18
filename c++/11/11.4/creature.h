@@ -1,10 +1,3 @@
-/*
-	CH-230-A 
-    a11-p4.[c or cpp or h] 
-    Zixiang Wang 
-    zixwang@jacobs-university.de
-*/
-
 #ifndef _creature_
 #define _creature_
 

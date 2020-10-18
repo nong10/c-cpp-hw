@@ -1,10 +1,3 @@
-/*
-	CH-230-A 
-	a8-p1.c 
-	Zixiang Wang
-	zixwang@jacobs-university.de
-*/
-
 /**
  * @file testqueue.c
  */

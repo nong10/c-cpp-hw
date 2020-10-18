@@ -1,10 +1,3 @@
-/*
-	CH-230-A 
-    a12-p6.[c or cpp or h] 
-    Zixiang Wang 
-    zixwang@jacobs-university.de
-*/
-
 // simple class for fractions
 
 #ifndef FRACTION_H_

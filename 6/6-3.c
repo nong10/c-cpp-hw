@@ -1,11 +1,3 @@
-/*
-	CH-230-A
-	a6_p3.[c]
-	Zixiang Wang
-	zixwang@jacobs-university.de
-*/
-
-
 #include <stdio.h>
 #define MAX(x) max = x > max ? x : max //determine max between two value
 #define MIN(x) min = x < min ? x : min //determine min between two value

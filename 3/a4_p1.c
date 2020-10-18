@@ -1,9 +1,3 @@
-/*
-CH-230-A
-a4_p1.c
-Ziheng Gao
-zgao@jacobs-university.de
-*/
 #include<stdio.h>
 #include<math.h>
 double area(float a)

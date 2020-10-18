@@ -1,10 +1,3 @@
-/*
-	CH-230-A
-	a5-p10.[c]
-	Zixiang Wang
-	zixwang@jacobs-university.de
-*/
-
 #include <stdio.h>
 
 void print_num(int neo);

@@ -1,10 +1,3 @@
-/*
-    CH-230-A 
-    a9-p8.[c or cpp or h] 
-    Zixiang Wang 
-    zixwang@jacobs-university.de
-*/
-
 #include <iostream>
 #include <string.h>
 using namespace std;

@@ -1,10 +1,3 @@
-/*
-	CH-230-A
-	a7_p1.[c]
-	Zixiang Wang
-	zixwang@jacobs-university.de
-*/
-
 struct list{
 	int value;
 	struct list* next;

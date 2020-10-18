@@ -1,9 +1,3 @@
-/*
-CH-230-A
-a3_p8.c
-Ziheng Gao
-zgao@jacobs-university.de
-*/
 #include<stdio.h>
 
 float sum(float input[],int Ei);

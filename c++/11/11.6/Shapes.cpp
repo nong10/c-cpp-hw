@@ -1,10 +1,3 @@
-/*
-	CH-230-A 
-    a11-p6.[c or cpp or h] 
-    Zixiang Wang 
-    zixwang@jacobs-university.de
-*/
-
 #include <iostream>
 #include "Shapes.h"
 #define M_PI	3.14159265358979323846

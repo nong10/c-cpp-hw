@@ -1,11 +1,3 @@
-/*
-	CH-230-A 
-    a10-p5.[c or cpp or h] 
-    Zixiang Wang 
-    zixwang@jacobs-university.de
-*/
-
-
 #include <iostream>
 #include "Critter.h"
 

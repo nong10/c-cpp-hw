@@ -1,10 +1,3 @@
-/*
-	CH-230-A
-	a8_p5.[c]
-	Zixiang Wang
-	zixwang@jacobs-university.de
-*/
-
 typedef struct stack{
 	unsigned int count; //top???
 	char array[100][30];

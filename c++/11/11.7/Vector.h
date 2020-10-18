@@ -1,10 +1,3 @@
-/*
-	CH-230-A 
-    a11-p7.[c or cpp or h] 
-    Zixiang Wang 
-    zixwang@jacobs-university.de
-*/
-
 class Vector {
     
     private:

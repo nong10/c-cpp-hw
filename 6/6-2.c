@@ -1,10 +1,3 @@
-/*
-	CH-230-A
-	a6_p1.[c]
-	Zixiang Wang
-	zixwang@jacobs-university.de
-*/
-
 #include <stdio.h>
 #define DEF(x) x & 1
 

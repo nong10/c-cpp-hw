@@ -1,10 +1,3 @@
-/*
-	CH-230-A
-	a6_p6.[c]
-	Zixiang Wang
-	zixwang@jacobs-university.de
-*/
-
 #include <stdio.h>
 
 /*

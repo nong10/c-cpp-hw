@@ -1,9 +1,3 @@
-/*
-CH-230-A
-a3_p7.c
-Ziheng Gao
-zgao@jacobs-university.de
-*/
 #include<stdio.h>
 void print_form(int n,int m, char c);
 

@@ -1,10 +1,3 @@
-/*
-	CH-230-A
-	a5-p8.[c]
-	Zixiang Wang
-	zixwang@jacobs-university.de
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,10 +1,3 @@
-/*
-    CH-230-A 
-    a9-p10.[c or cpp or h] 
-    Zixiang Wang 
-    zixwang@jacobs-university.de
-*/
-
 #include <iostream>
 #include <ctime>
 using namespace std;

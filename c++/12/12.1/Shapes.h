@@ -1,10 +1,3 @@
-/*
-	CH-230-A 
-    a12-p1.[c or cpp or h] 
-    Zixiang Wang 
-    zixwang@jacobs-university.de
-*/
-
 /* 
 	Classic shape examples: an inheritance tree in a geometric context
 */

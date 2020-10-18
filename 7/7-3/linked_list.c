@@ -1,10 +1,3 @@
-/*
-	CH-230-A
-	a7_p1.[c]
-	Zixiang Wang
-	zixwang@jacobs-university.de
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "linked_list.h"

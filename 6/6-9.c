@@ -1,11 +1,4 @@
 /*
-	CH-230-A
-	a6_p9.[c]
-	Zixiang Wang
-	zixwang@jacobs-university.de
-*/
-
-/*
 	6-9 extends 6-8
 */
 #include <stdio.h>

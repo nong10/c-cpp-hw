@@ -1,10 +1,3 @@
-/*
-	CH-230-A 
-    a12-p2.[c or cpp or h] 
-    Zixiang Wang 
-    zixwang@jacobs-university.de
-*/
-
 #include "TournamentMember.h"
 #include <iostream>
 

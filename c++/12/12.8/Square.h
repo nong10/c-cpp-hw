@@ -1,10 +1,3 @@
-/*
-	CH-230-A 
-    a12-p8.[c or cpp or h] 
-    Zixiang Wang 
-    zixwang@jacobs-university.de
-*/
-
 #ifndef _SQUARE_H
 #define _SQUARE_H
 

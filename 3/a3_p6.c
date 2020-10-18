@@ -1,9 +1,3 @@
-/*
-CH-230-A
-a3_p6.c
-Ziheng Gao
-zgao@jacobs-university.de
-*/
 #include<stdio.h>
 
 float to_pounds(int kg,int g)

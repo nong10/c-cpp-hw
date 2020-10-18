@@ -1,10 +1,3 @@
-/*
-	CH-230-A 
-    a13-2.[c or cpp or h] 
-    Zixiang Wang 
-    zixwang@jacobs-university.de
-*/
-
 #include <iostream>
 #include "Complex.h"
 

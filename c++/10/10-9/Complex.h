@@ -1,10 +1,3 @@
-/*
-	CH-230-A 
-    a10-p9.[c or cpp or h] 
-    Zixiang Wang 
-    zixwang@jacobs-university.de
-*/
-
 class Complex{
     
     private:
