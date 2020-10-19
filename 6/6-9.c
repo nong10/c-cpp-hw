@@ -22,6 +22,8 @@ struct list* reverse_list(struct list* l);
 int main() {
 	char ch = 'o';
 	struct list* l = (struct list*)malloc(sizeof(struct list));
+	if(l == NULL)
+		exit(1);
 	l -> next = l;
 	int tmp, tmp2;
 	while(ch != 'q') {
@@ -75,6 +77,7 @@ int main() {
 				scanf("%d", &tmp2);
 				getchar();
 				l = insert_list(l, tmp, tmp2);
+				break;
 			case 'R': // 'R' for reverse the whole list
 				#if defined(DEBUG)
 				printf("R\n");
@@ -101,6 +104,8 @@ void add_list(struct list* l, int newValue) {
 		return;
 	}
 	struct list* new_list = (struct list*)malloc(sizeof(struct list));
+	if(new_list == NULL)
+		exit(1);
 	struct list* p = l;
 	#if defined(DEBUG)
 	int count = 0;
@@ -137,6 +142,8 @@ struct list* add_list_front(struct list* l, int newValue) {
 		return l;
 	}
 	struct list* new_list = (struct list*)malloc(sizeof(struct list));
+	if(new_list == NULL)
+		exit(1);
 	new_list -> value = newValue;
 	new_list -> next = l;
 	return new_list;
@@ -201,6 +208,8 @@ struct list* insert_list(struct list* l, int position, int newValue) {
 	printf("insert_list\n");
 	#endif
 	struct list* newList = (struct list*)malloc(sizeof(struct list));
+	if(newList == NULL)
+		exit(1);
 	if(position == 0) {
 		if(l -> next == l) {
 			newList -> value = newValue;
