@@ -11,7 +11,7 @@ void push(int x, Stack* ps) {
 }
 
 void pop(Stack* ps) {
-	printf("%d ", (ps -> array)[ps -> count - 1]);
+	printf("%d", (ps -> array)[ps -> count - 1]);
 	ps -> count = ps -> count - 1;
 }
 
@@ -32,6 +32,7 @@ int is_empty(Stack* ps) {
 void empty(Stack* ps) {
 	while(!is_empty(ps)) {
 		pop(ps);
+		printf(" ");
 	}
 }
 
