@@ -4,8 +4,8 @@
 *.swp
 *.un~
 *.zip
-makefile
-Makefile
-MAKEFILE
+#makefile
+#Makefile
+#MAKEFILE
 *.out
 *.pdf
