@@ -8,6 +8,7 @@ int main() {
 	int finalDec = dec;
 	int count = 0;
 	Stack s;
+	init(&s);
 	while(dec != 0) {
 		push(dec % 2, &s);
 		dec = dec / 2;

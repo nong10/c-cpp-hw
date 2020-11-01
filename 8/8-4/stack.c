@@ -31,3 +31,13 @@ int is_empty(Stack* ps) {
 	}
 	return 0;
 }
+
+void empty(Stack* ps) {
+	while(!is_empty(ps)) {
+		pop(ps);
+		printf(" ");
+	}
+}
+void init(Stack* ps) {
+	ps -> count = 0;
+}
