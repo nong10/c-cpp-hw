@@ -1,6 +1,6 @@
-
 #include <stdlib.h>
 #include <string.h>
+#include <stdio.h>
 
 void concate_files(FILE* out, char filename[100]);
 
